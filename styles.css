@@ -1,0 +1,22 @@
+:root {
+  --yellow: #f1be32;
+  --golden-yellow: #feac32;
+  --dark-purple: #110815;
+  --light-grey: #efefef;
+}
+
+body {
+  background-color: var(--dark-purple);
+  color: var(--light-grey);
+  text-align: center;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 10px;
+  margin: 20px;
+  color: var(--dark-purple);
+  background-color: var(--golden-yellow);
+  border-color: var(--golden-yellow);
+}
+

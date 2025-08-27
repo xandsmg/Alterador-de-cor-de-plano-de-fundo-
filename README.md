@@ -1,0 +1,1 @@
+Alterador de cor de plano de fundo
